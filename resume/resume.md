@@ -8,7 +8,6 @@ A few projects that I worked on have been recognized nationally and internationa
 
 I enjoy writing code, making functional software, creating prototypes and scamps with creative & technical approaches. Strategic thinking for utilities, platforms & integrating new technology into creative concepting with current and new technologies.
 
-<<<<<<< HEAD
 I have strong opinions about technology in advertising and think that now is a great time to be a technologist in this industry. One of the most important skills in our industry is the ability to execute your ideas. We must be able to prototype our ideas, be able to incorporate multiple technologies, software, hardware & interaction design.
 
 I have over 10 years of differing experiences, as opposed to the same years experiences 10 times over. 
