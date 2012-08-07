@@ -33,6 +33,7 @@ Managed project teams across technical, design, creative & QA.
 Client facing, leading project & technical solution presentations.
 
 
+*Technologies HTML(5), CSS(3), JavaScript (Backbone.js), iOS, Objective-C, CocoaTouch, UIKit, Flash, ActionScript.*  
 
 
 ##Holler, Sydney
@@ -43,6 +44,7 @@ Client facing, leading project & technical solution presentations.
 Lead technical and creative direction across numerous web projects, working closely with a team of front & backend developers, creatives and project managers.
 
 
+*Technologies HTML, CSS, JavaScript, Flash, ActionScript.*  
 
 
 ##Freelance, Sydney
@@ -52,6 +54,8 @@ Lead technical and creative direction across numerous web projects, working clos
 
 Developed animated, interactive websites incorporating numerous API's, lead technical direction and creative solutions.
 
+*Technologies HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript.*  
+
 
 ##Future Buro, Sydney
 
@@ -60,7 +64,7 @@ Developed animated, interactive websites incorporating numerous API's, lead tech
 
 Worked closely with the Technical Director & Creative Director on numerous web based projects for The Lane, Virgin Australia & Red Bull.
 
-
+*Technologies HTML, CSS, JavaScript, Flash, ActionScript.*  
 
 
 ##Frost* Design, Sydney
@@ -70,7 +74,7 @@ Worked closely with the Technical Director & Creative Director on numerous web b
 
 Lead development across all interactive projects.
 
-
+*Technologies HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript.*  
 
 
 ##Saatchi & Saatchi, Sydney
@@ -80,6 +84,7 @@ Lead development across all interactive projects.
 
 Technical lead across all interactive projects for clients United Nations, Toyota, Lexus, Tooheys & Emirates.
 
+*Technologies HTML, CSS, JavaScript, PHP, MySQL, Java, Oracle, Flash, ActionScript.*  
 
 
 
@@ -90,7 +95,7 @@ Technical lead across all interactive projects for clients United Nations, Toyot
 
 Lead Flash development across all clients including Volkswagen, Nike, Wrigleys & McDonald's.
 
-
+*Technologies HTML, CSS, JavaScript, Flash, ActionScript.*  
 
 
 ##Tribal DDB, New Zealand
@@ -100,7 +105,7 @@ Lead Flash development across all clients including Volkswagen, Nike, Wrigleys &
 
 Lead Flash Development and Interactive Design for clients Phillips, Cadbury, Sky TV & McDonald's.
 
-
+*Technologies HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript.*  
 
 
 ##Saatch & Saatchi, Auckland
@@ -110,7 +115,7 @@ Lead Flash Development and Interactive Design for clients Phillips, Cadbury, Sky
 
 Lead Developer, across clients Toyota, Lexus, Heineken, Emirates.
 
-
+*Technologies HTML, CSS, JavaScript, Flash, ActionScript.*  
 
 
 ##Freelance, Auckland
