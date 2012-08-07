@@ -1,4 +1,5 @@
-#Shaun O'Connor - Technical Director
+#Shaun O'Connor  
+#Technical Director
 
 #About
 
