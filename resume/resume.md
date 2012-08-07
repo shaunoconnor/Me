@@ -1,5 +1,4 @@
-#Shaun O'Connor
-#Technical Director
+#Shaun O'Connor - Technical Director
 
 #About
 
@@ -9,7 +8,7 @@ A few projects that I worked on have been recognized nationally and internationa
 
 I enjoy writing code, making functional software, creating prototypes and scamps with creative & technical approaches. Strategic thinking for utilities, platforms & integrating new technology into creative concepting with current and new technologies.
 
-
+----
 
 
 #Experience
@@ -117,7 +116,7 @@ Lead Developer, across clients Toyota, Lexus, Tooheys, Emirates
 Worked across numerous publications within the ACP Media group.
 
 
-
+----
 
 
 #Education
