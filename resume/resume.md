@@ -1,7 +1,7 @@
 #Shaun O'Connor
 #Technical Director
 
-##About
+#About
 
 Sydney based Technical Director, I have spent the last 10 Years working in Australasian Advertising Agencies, across clients Heineken, Toyota, Lexus, Tooheys, Emirates, Nike, Volkswagen, McDonald's, Virgin Australia, Red Bull, Nissan & NRMA.
 
@@ -12,10 +12,10 @@ I enjoy writing code, making functional software, creating prototypes and scamps
 
 
 
-##Experience
+#Experience
 
 
-###Whybin \ TBWA \ Tequila, Sydney
+##Whybin \ TBWA \ Tequila, Sydney
 
 **Creative Technology Lead**
 **November 2010 – Present**
@@ -31,7 +31,7 @@ Client facing, leading project & technical solution presentations.
 
 
 
-###Holler, Sydney
+##Holler, Sydney
 
 **Interactive Developer**
 **December 2009 – November 2010**
@@ -41,7 +41,7 @@ Lead technical and creative direction across numerous web projects, working clos
 
 
 
-###Freelance, Sydney
+##Freelance, Sydney
 
 **Interactive Developer**
 **May 2009 – November 2010**
@@ -49,7 +49,7 @@ Lead technical and creative direction across numerous web projects, working clos
 Developed animated, interactive websites incorporating numerous API's, lead technical direction and creative solutions.
 
 
-###Future Buro, Sydney
+##Future Buro, Sydney
 
 **Freelance Developer**
 **May 2009 – November 2010**
@@ -59,7 +59,7 @@ Worked closely with the Technical Director & Creative Director on numerous web b
 
 
 
-####Frost* Design, Sydney
+##Frost* Design, Sydney
 
 **Freelance Developer**
 **May 2009 – November 2010**
@@ -69,7 +69,7 @@ Lead development across all interactive projects.
 
 
 
-####Saatchi & Saatchi, Sydney
+##Saatchi & Saatchi, Sydney
 
 **Lead Developer**
 **May 2009 – November 2010**
@@ -79,7 +79,7 @@ Technical lead across all interactive projects for clients United Nations, Toyot
 
 
 
-####Tribal DDB, Sydney
+##Tribal DDB, Sydney
 
 **Lead Flash Developer**
 **February 2006 – December 2006**
@@ -89,7 +89,7 @@ Lead Flash development across all clients including Volkswagen, Nike, Wrigleys &
 
 
 
-####Tribal DDB, New Zealand
+##Tribal DDB, New Zealand
 
 **Lead Flash Developer**
 **February 2006 – December 2006**
@@ -99,7 +99,7 @@ Lead Flash Development and Interactive Design for clients Phillips, Cadbury, Sky
 
 
 
-####Saatch & Saatchi, Auckland
+##Saatch & Saatchi, Auckland
 
 **Flash Developer / Designer**
 **February 2004 – September 2006**
@@ -109,7 +109,7 @@ Lead Developer, across clients Toyota, Lexus, Tooheys, Emirates
 
 
 
-####Freelance, Auckland
+##Freelance, Auckland
 
 **Mac Operator**
 **January 2001 – 2003**
@@ -120,16 +120,16 @@ Worked across numerous publications within the ACP Media group.
 
 
 
-###Education
+#Education
 
 
-####Diploma of Digital Media
+##Diploma of Digital Media
 
 **Media Design School Auckland New Zealand**
 **Jan 2002 - Dec 2002**
 
 
-####Diploma of Graphic Design
+##Diploma of Graphic Design
 
 **Media Design School Auckland New Zealand**
 **Jan 2001 - Dec 2001**
