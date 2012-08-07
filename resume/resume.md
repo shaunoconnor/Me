@@ -109,7 +109,7 @@ Lead Flash Development and Interactive Design for clients Phillips, Cadbury, Sky
 **Flash Developer / Designer**  
 **February 2004 – September 2006**
 
-Lead Developer, across clients Toyota, Lexus, Tooheys, Emirates
+Lead Developer, across clients Toyota, Lexus, Heineken, Emirates.
 
 
 
