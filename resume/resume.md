@@ -16,7 +16,7 @@ I enjoy writing code, making functional software, creating prototypes and scamps
 
 ##Whybin \ TBWA \ Tequila, Sydney
 
-**Creative Technology Lead**
+**Creative Technology Lead**  
 **November 2010 – Present**
 
 Lead technical direction across web, mobile and inbetween projects. Implemented numerous process & infrastructure updates for version control systems, agile development processes, code standards, opensource frameworks & task management. 
@@ -32,7 +32,7 @@ Client facing, leading project & technical solution presentations.
 
 ##Holler, Sydney
 
-**Interactive Developer**
+**Interactive Developer**  
 **December 2009 – November 2010**
 
 Lead technical and creative direction across numerous web projects, working closely with a team of front & backend developers, creatives and project managers.
@@ -42,7 +42,7 @@ Lead technical and creative direction across numerous web projects, working clos
 
 ##Freelance, Sydney
 
-**Interactive Developer**
+**Interactive Developer**  
 **May 2009 – November 2010**
 
 Developed animated, interactive websites incorporating numerous API's, lead technical direction and creative solutions.
@@ -50,7 +50,7 @@ Developed animated, interactive websites incorporating numerous API's, lead tech
 
 ##Future Buro, Sydney
 
-**Freelance Developer**
+**Freelance Developer**  
 **May 2009 – November 2010**
 
 Worked closely with the Technical Director & Creative Director on numerous web based projects for The Lane, Virgin Australia & Red Bull.
@@ -60,7 +60,7 @@ Worked closely with the Technical Director & Creative Director on numerous web b
 
 ##Frost* Design, Sydney
 
-**Freelance Developer**
+**Freelance Developer**  
 **May 2009 – November 2010**
 
 Lead development across all interactive projects.
@@ -70,7 +70,7 @@ Lead development across all interactive projects.
 
 ##Saatchi & Saatchi, Sydney
 
-**Lead Developer**
+**Lead Developer**  
 **May 2009 – November 2010**
 
 Technical lead across all interactive projects for clients United Nations, Toyota, Lexus, Tooheys & Emirates.
@@ -80,7 +80,7 @@ Technical lead across all interactive projects for clients United Nations, Toyot
 
 ##Tribal DDB, Sydney
 
-**Lead Flash Developer**
+**Lead Flash Developer**  
 **February 2006 – December 2006**
 
 Lead Flash development across all clients including Volkswagen, Nike, Wrigleys & McDonald's.
@@ -90,7 +90,7 @@ Lead Flash development across all clients including Volkswagen, Nike, Wrigleys &
 
 ##Tribal DDB, New Zealand
 
-**Lead Flash Developer**
+**Lead Flash Developer**  
 **February 2006 – December 2006**
 
 Lead Flash Development and Interactive Design for clients Phillips, Cadbury, Sky TV & McDonald's.
@@ -100,7 +100,7 @@ Lead Flash Development and Interactive Design for clients Phillips, Cadbury, Sky
 
 ##Saatch & Saatchi, Auckland
 
-**Flash Developer / Designer**
+**Flash Developer / Designer**  
 **February 2004 – September 2006**
 
 Lead Developer, across clients Toyota, Lexus, Tooheys, Emirates
@@ -110,7 +110,7 @@ Lead Developer, across clients Toyota, Lexus, Tooheys, Emirates
 
 ##Freelance, Auckland
 
-**Mac Operator**
+**Mac Operator**  
 **January 2001 – 2003**
 
 Worked across numerous publications within the ACP Media group.
@@ -124,13 +124,13 @@ Worked across numerous publications within the ACP Media group.
 
 ##Diploma of Digital Media
 
-**Media Design School Auckland New Zealand**
+**Media Design School Auckland New Zealand**  
 **Jan 2002 - Dec 2002**
 
 
 ##Diploma of Graphic Design
 
-**Media Design School Auckland New Zealand**
+**Media Design School Auckland New Zealand**  
 **Jan 2001 - Dec 2001**
 
 
