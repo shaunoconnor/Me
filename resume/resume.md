@@ -10,7 +10,7 @@ I enjoy writing code, making functional software, creating prototypes and scamps
  
 I have strong opinions about technology in advertising and think that now is a great time to be a technologist in this industry. One of the most important skills in our industry is the ability to execute your ideas. We must be able to prototype our ideas, be able to incorporate multiple technologies, software, hardware & interaction design.
 
-I have over 10 years of differing experiences, as opposed to the same years experiences 10 times over. 
+I have over 10 years of differing experiences, as opposed to the same years experiences 10 times over.  
 
 ----
 
@@ -24,16 +24,16 @@ I have over 10 years of differing experiences, as opposed to the same years expe
 **Creative Technology Lead**  
 **November 2010 – Present**
 
-Lead technical direction across web, mobile and inbetween projects. Implemented numerous process & infrastructure updates for version control systems, agile development processes, code standards, opensource frameworks & task management. 
+Lead technical direction across web, mobile projects. Implemented numerous process & infrastructure updates for version control systems, agile development processes, code standards, opensource frameworks & task management. 
 
-Planned, prototyped and lead development of iOS applications.
+Planned, prototyped and lead development of several iOS applications.
 
 Managed project teams across technical, design, creative & QA. 
 
 Client facing, leading project & technical solution presentations.
 
 
-*Technologies HTML(5), CSS(3), JavaScript (Backbone.js), iOS, Objective-C, CocoaTouch, UIKit, Flash, ActionScript.*  
+*Technologies: HTML(5), CSS(3), JavaScript (Backbone.js), iOS, Objective-C, CocoaTouch, UIKit, Flash, ActionScript, Social Media API integration, CDN, Cloud Server Infrastructures.*  
 
 
 ##Holler, Sydney
@@ -44,7 +44,7 @@ Client facing, leading project & technical solution presentations.
 Lead technical and creative direction across numerous web projects, working closely with a team of front & backend developers, creatives and project managers.
 
 
-*Technologies HTML, CSS, JavaScript, Flash, ActionScript.*  
+*Technologies: HTML, CSS, JavaScript, Flash, ActionScript, Flash video, Social Media API Integration.*  
 
 
 ##Freelance, Sydney
@@ -54,7 +54,7 @@ Lead technical and creative direction across numerous web projects, working clos
 
 Developed animated, interactive websites incorporating numerous API's, lead technical direction and creative solutions.
 
-*Technologies HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript.*  
+*Technologies: HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript, Flash video, Social Media API Integration.*  
 
 
 ##Future Buro, Sydney
@@ -64,7 +64,7 @@ Developed animated, interactive websites incorporating numerous API's, lead tech
 
 Worked closely with the Technical Director & Creative Director on numerous web based projects for The Lane, Virgin Australia & Red Bull.
 
-*Technologies HTML, CSS, JavaScript, Flash, ActionScript.*  
+*Technologies: HTML, CSS, JavaScript, Flash, ActionScript, 3D graphics programming, Social Media API Integration.*  
 
 
 ##Frost* Design, Sydney
@@ -74,7 +74,7 @@ Worked closely with the Technical Director & Creative Director on numerous web b
 
 Lead development across all interactive projects.
 
-*Technologies HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript.*  
+*Technologies: HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript, 3D graphics programming.*  
 
 
 ##Saatchi & Saatchi, Sydney
@@ -84,7 +84,7 @@ Lead development across all interactive projects.
 
 Technical lead across all interactive projects for clients United Nations, Toyota, Lexus, Tooheys & Emirates.
 
-*Technologies HTML, CSS, JavaScript, PHP, MySQL, Java, Oracle, Flash, ActionScript.*  
+*Technologies HTML, CSS, JavaScript, PHP, MySQL, Java, Oracle, Flash, ActionScript, Flash video.*  
 
 
 
