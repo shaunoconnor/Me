@@ -6,11 +6,11 @@ Sydney based Technical Director, I have spent the last 10 Years working in Austr
 
 A few projects that I worked on have been recognized nationally and internationally, Virgin 4320; Gold in Direct, Silver in Direct Integrated and Bronze Cyber at Cannes Lions Advertising Festival. D&AD Yellow Pencil in Direct / Digital, D&AD Yellow Pencil, UN Voices Project; Bronze Cannes Lions Advertising Festival, UN Voices Project; Silver AWARD.
 
-I enjoy writing code, making functional software, creating prototypes and scamps with creative & technical approaches. Strategic thinking for utilities, platforms & integrating new technology into creative concepting with current and new technologies.
+I enjoy writing code, making functional software, creating prototypes and scamps with creative & technical approaches, strategic thinking for utilities, platforms & integrating new technology into creative concepting.
  
-I have strong opinions about technology in advertising and think that now is a great time to be a technologist in this industry. One of the most important skills in our industry is the ability to execute your ideas. We must be able to prototype our ideas, be able to incorporate multiple technologies, software, hardware & interaction design.
+I am passionate about technology in advertising and think that now is a great time to be in this industry. One of the most important skills in our industry is the ability to execute your ideas, we must be able to prototype our ideas with multiple technologies, software & hardware with interaction front of mind.
 
-I have over 10 years of differing experiences, as opposed to the same years experiences 10 times over.  
+I have over 10 years of vast experiences, as opposed to the same years experiences 10 times over and enjoy solving new problems everyday.  
 
 ----
 
@@ -24,16 +24,16 @@ I have over 10 years of differing experiences, as opposed to the same years expe
 **Creative Technology Lead**  
 **November 2010 – Present**
 
-Lead technical direction across web, mobile projects. Implemented numerous process & infrastructure updates for version control systems, agile development processes, code standards, opensource frameworks & task management. 
+Lead technical direction across web & mobile projects. Implemented numerous process & infrastructure updates for version control systems, agile development processes, code standards, opensource frameworks & task management. 
 
-Planned, prototyped and lead development of several iOS applications.
+Architected, prototyped and lead development of several iOS applications.
 
 Managed project teams across technical, design, creative & QA. 
 
-Client facing, leading project & technical solution presentations.
+Client facing, leading overall project & technical solution presentations & pitches.
 
+*Technologies: HTML(5), CSS(3), JavaScript (Backbone.js), iOS, Objective-C, CocoaTouch, UIKit, Flash, ActionScript, RESTful web services, Social Media API integration, CDN, Cloud Server Infrastructures.*  
 
-*Technologies: HTML(5), CSS(3), JavaScript (Backbone.js), iOS, Objective-C, CocoaTouch, UIKit, Flash, ActionScript, Social Media API integration, CDN, Cloud Server Infrastructures.*  
 
 
 ##Holler, Sydney
@@ -84,7 +84,7 @@ Lead development across all interactive projects.
 
 Technical lead across all interactive projects for clients United Nations, Toyota, Lexus, Tooheys & Emirates.
 
-*Technologies HTML, CSS, JavaScript, PHP, MySQL, Java, Oracle, Flash, ActionScript, Flash video.*  
+*Technologies: HTML, CSS, JavaScript, PHP, MySQL, Java, Oracle, Flash, ActionScript, Flash video.*  
 
 
 
@@ -95,7 +95,7 @@ Technical lead across all interactive projects for clients United Nations, Toyot
 
 Lead Flash development across all clients including Volkswagen, Nike, Wrigleys & McDonald's.
 
-*Technologies HTML, CSS, JavaScript, Flash, ActionScript.*  
+*Technologies: HTML, CSS, JavaScript, Flash, ActionScript.*  
 
 
 ##Tribal DDB, New Zealand
@@ -105,7 +105,7 @@ Lead Flash development across all clients including Volkswagen, Nike, Wrigleys &
 
 Lead Flash Development and Interactive Design for clients Phillips, Cadbury, Sky TV & McDonald's.
 
-*Technologies HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript.*  
+*Technologies: HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript.*  
 
 
 ##Saatch & Saatchi, Auckland
@@ -115,7 +115,7 @@ Lead Flash Development and Interactive Design for clients Phillips, Cadbury, Sky
 
 Lead Developer, across clients Toyota, Lexus, Heineken, Emirates.
 
-*Technologies HTML, CSS, JavaScript, Flash, ActionScript.*  
+*Technologies: HTML, CSS, JavaScript, Flash, ActionScript.*  
 
 
 ##Freelance, Auckland
