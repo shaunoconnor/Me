@@ -1,4 +1,5 @@
-#Shaun O'Connor - Technical Director
+# Shaun O'Connor
+## Creative Technologist / Technical Director
 
 #About
 
@@ -19,10 +20,22 @@ I have over 10 years of vast experiences, as opposed to the same years experienc
 #Experience
 
 
-##Whybin \ TBWA \ Tequila, Sydney
+##Pubicis Mojo, Sydney
+
+**Creative Technologist**  
+**January 2013 – Present**
+
+Lead creative & technical direction across web, mobile and general digital projects. 
+
+Client facing, leading overall creative & technical solution presentations & pitches.
+
+
+
+
+##Whybin \ TBWA \ Digital Arts Network, Sydney
 
 **Creative Technology Lead**  
-**November 2010 – Present**
+**November 2010 – December 2012**
 
 Lead technical direction across web & mobile projects. Implemented numerous process & infrastructure updates for version control systems, agile development processes, code standards, opensource frameworks & task management. 
 
