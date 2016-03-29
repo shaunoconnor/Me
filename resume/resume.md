@@ -1,17 +1,19 @@
 # Shaun O'Connor
-## Creative Technologist / Technical Director
+## Creative Technology Director
 
 #About
 
-Sydney based Technical Director, I have spent the last 10 Years working in Australasian Advertising Agencies, across clients Heineken, Toyota, Lexus, Tooheys, Emirates, Nike, Volkswagen, McDonald's, Virgin Australia, Red Bull, Nissan & NRMA.
+Shaun has spent almost 15 years working in communication across design, technology and creative.
 
-A few projects that I worked on have been recognized nationally and internationally, Virgin 4320; Gold in Direct, Silver in Direct Integrated and Bronze Cyber at Cannes Lions Advertising Festival. D&AD Yellow Pencil in Direct / Digital, D&AD Yellow Pencil, UN Voices Project; Bronze Cannes Lions Advertising Festival, UN Voices Project; Silver AWARD.
+He has been lucky enough to be recognised globally for his work with Gold Cannes Lions, D&AD Yellow Pencils and ‘in book’, Gold’s at AWARD and Axis. He has also played a key leadership role in multiple Agency Of The Year Titles, and a digital EMMY for transmedia storytelling.
 
-I enjoy writing code, making functional software, creating prototypes and scamps with creative & technical approaches, strategic thinking for utilities, platforms & integrating new technology into creative concepting.
- 
-I am passionate about technology in advertising and think that now is a great time to be in this industry. One of the most important skills in our industry is the ability to execute your ideas, we must be able to prototype our ideas with multiple technologies, software & hardware with interaction front of mind.
+Shaun is currently Creative Technology Director at DDB Sydney.
 
-I have over 10 years of vast experiences, as opposed to the same years experiences 10 times over and enjoy solving new problems everyday.  
+Before joining DDB for the second time Shaun worked at Saatchi & Saatchi (New Zealand & Australia), Holler Sydney, Publicis Mojo and TBWA. Throughout Shaun's career he has also worked in a contract capacity on projects, products and services. His specialty and focus is on where creativity and technology intersects. Having a deep and practical knowledge of software development, design and ideation gives Shaun a unique point of view and approach to problem solving.
+
+Lately Shaun has been leading creative technology projects ranging from digital services to brand activations and campaigns. Shaun's approach to solving business problems is a mix of design thinking practices like product development sprints coupled with prototyping (throwaway, evolutionary), MoSCoW planning, MVP delivery, continuous integration and improvement.
+
+Contact via email: shaun at shaun-oconnor.com.
 
 ----
 
@@ -20,10 +22,20 @@ I have over 10 years of vast experiences, as opposed to the same years experienc
 #Experience
 
 
+##DDB, Sydney
+
+**Creative Technology Director**  
+**January 2014 – Present**
+
+Lead Creative & Technology direction across clients Volkswagen, Sydney Opera House, McDonalds, Wrigley, Streets, Expedia.
+
+I work on ideas that tackle business problems, prototype ambitious technology solutions with open source software and link it all together with the social platforms people are connecting with.
+
+
 ##Pubicis Mojo, Sydney
 
 **Creative Technologist**  
-**January 2013 – Present**
+**January 2013 – 2014**
 
 Lead creative & technical direction across web, mobile and general digital projects. 
 
